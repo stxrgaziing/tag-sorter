@@ -21,24 +21,20 @@ p {
 h2 {
   margin-top: 60px;
   margin-bottom: 0px;
-   color: #06631e;
+   color: #06992c;
 }
 
 h3 {
   margin-top: 2px;
-   color: #06631e;
+   color: #06992c;
 }
 
 a {
-   color: #219c41;
+   color: #1fbf49;
 }
 
 a:hover {
    color: #38b559;
-}
-
-b {
-   color: #06631e;
 }
 
 
