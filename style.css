@@ -6,6 +6,10 @@
   margin-top: 0;
 }
 
+.sorter-container nav {
+   color: #134520;
+}
+
 body {
     text-align: center;
 }
@@ -14,15 +18,23 @@ p {
   line-height: .83; 
 }
 
-/* 1. Lowers the H2 down the page and removes its bottom gap */
 h2 {
-  margin-top: 60px;    /* Increase this number to push it even lower down */
-  margin-bottom: 0px;   /* Removes the default gap underneath the H2 */
+  margin-top: 60px;
+  margin-bottom: 0px;
+   color: #134520;
 }
 
-/* 2. Pulls the H3 up so it sits right underneath the H2 */
 h3 {
-  margin-top: 2px;     /* Gives you a tiny, controlled gap between the titles */
+  margin-top: 2px;
+   color: #134520;
+}
+
+a {
+   color: #134520;
+}
+
+a:hover {
+   color: #338a4a;
 }
 
 
