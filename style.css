@@ -1,0 +1,5 @@
+.sorter-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px; /* Controls the exact vertical space between text and nav */
+}
