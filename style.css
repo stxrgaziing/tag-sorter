@@ -1,7 +1,9 @@
-.sorter-container {
-  display: flex;
-  flex-direction: column;
-  gap: 2px; /* Controls the exact vertical space between text and nav */
+.sorter-container p {
+   margin-bottom: 0;
+}
+
+.sorter-container nav {
+  margin-top: 2px;
 }
 
 body {
